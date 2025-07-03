@@ -1,10 +1,6 @@
 # Invest In A Growing Hospitality Business With Built-In Demand And Expansion Potential
 
-Statler Waldorf is a hospitality-focused holding company operating two high-performing
-restaurants across from a gated community of 3,000+ affluent homes. In year one,
-we've generated \$1.75 million in top-line revenue. Now, we’re raising \$300,000–\
-$500,000 to strengthen our balance sheet, expand operations, and pursue a
-strategic real estate acquisition that positions us for long-term value creation.
+Statler Waldorf is a hospitality-focused holding company operating two high-performing restaurants across from a gated community of 3,000+ affluent homes. In year one, we've generated $1.6 million in top-line revenue. Now, we’re raising $300,000–$500,000 to strengthen our balance sheet, expand operations, and pursue a strategic real estate acquisition that positions us for long-term value creation.
 
 ## Highlights
 
