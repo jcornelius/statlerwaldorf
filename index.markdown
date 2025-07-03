@@ -10,5 +10,4 @@ title: Statler Waldorf
 
 <p><strong>Current Projects include:
 <a href="https://luckyhare.com">Lucky Hare</a> &middot;
-<a href="https://firstmountaintasting.com">First Mountain Tasting Room</a> &middot;
 <a href="https://nighttrainpizza.com">Night Train Pizza</a></strong></p>
