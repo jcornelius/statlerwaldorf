@@ -17,8 +17,8 @@ Statler Waldorf is a hospitality-focused holding company operating two high-perf
 ## Investment Terms
 We offer a fixed, secure return — not speculative equity.
 
-- Annual return: 8% (bi-annually)
-- Final buyout: 1.5× original investment at end of Year 5
+- Annual return: 8% (paid bi-annually)
+- Final buyout: 1.5× original investment paid at end of Year 5
 - No voting rights
 - No ongoing equity after buyback
 - Raise structured as a revenue-backed note
