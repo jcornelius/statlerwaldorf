@@ -3,11 +3,17 @@ layout: default
 title: Statler Waldorf
 ---
 
-<h2>Hospitality &middot; Entertainment &middot; Marketing.</h2>
-<p>Three wild worlds collide: hospitality, entertainment, and marketing. Statler Waldorf is a team of mad geniuses who know how to throw a party, tell a story, and make you feel right at home, all at once. They cut through the usual nonsense and get straight to the heart of what makes life interesting.</p>
+## We Build Things People Talk About
 
-<p>Part punk rock, part polished pro. It's the best parts of a wild night out and a seamless production, mixed into unforgettable experiences. In short, they make sure you have a damn good time, without any of the usual headaches.</p>
+We’re a holding company focused on real, cash-flowing businesses with long-term upside. We launch and grow brands people love–and back them with the infrastructure to grow: proven models, experienced operators, and media that moves the needle. Part punk rock, part polished pro.
 
-<p><strong>Current Projects include:
-<a href="https://luckyhare.com">Lucky Hare</a> &middot;
-<a href="https://nighttrainpizza.com">Night Train Pizza</a></strong></p>
+
+### Our current portfolio includes:
+
+- **[Lucky Hare](https://luckyhare.com)** - A scratch kitchen + cocktail bar with a strong following and standout food
+- **[Night Train Pizza](https://nighttrainpizza.com)** - A brand-forward pizza concept with high margins and franchise potential
+- **Media + Creative** – Focused content and campaigns to drive growth, build IP, and reduce acquisition costs
+
+We’re now raising our next round to scale what’s working and build what’s next.
+
+#### [See the Investment Opportunity →](/invest)
