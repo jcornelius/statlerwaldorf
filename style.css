@@ -1,4 +1,9 @@
 
+header a {
+  text-decoration: underline;
+}
+
+
 footer {
   margin-top: 3rem;
   padding-top: 1.5rem;

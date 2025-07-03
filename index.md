@@ -12,7 +12,7 @@ We’re a holding company focused on real, cash-flowing businesses with long-ter
 
 - **[Lucky Hare](https://luckyhare.com)** - A scratch kitchen + cocktail bar with a strong following and standout food
 - **[Night Train Pizza](https://nighttrainpizza.com)** - A brand-forward pizza concept with high margins and franchise potential
-- **Media + Creative** – Focused content and campaigns to drive growth, build IP, and reduce acquisition costs
+- **Pow Media** – Focused content and campaigns to drive growth, build IP, and reduce acquisition costs
 
 We’re now raising our next round to scale what’s working and build what’s next.
 
