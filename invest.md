@@ -4,7 +4,6 @@ Statler Waldorf is a hospitality-focused holding company operating two high-perf
 
 ## Highlights
 
-- 
 - $1.75MM projected second-year sales
 - Limited competition, prime location
 - Loyal, high-income customer base
