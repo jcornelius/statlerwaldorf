@@ -1,7 +1,7 @@
 
 header a, header a:hover, header a:visited {
   text-decoration: underline;
-  color: rgb(16, 149, 193)
+  color: rgb(16, 149, 193) !important
 }
 
 

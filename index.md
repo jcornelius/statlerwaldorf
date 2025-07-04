@@ -3,7 +3,7 @@ layout: default
 title: Statler Waldorf
 ---
 
-## We Build Things People Talk About
+## We Build Brands People Talk About.
 
 We’re a holding company focused on real, cash-flowing businesses with long-term upside. We launch and grow brands people love–and back them with the infrastructure to grow: proven models, experienced operators, and media that moves the needle. Part punk rock, part polished pro.
 
